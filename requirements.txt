@@ -1,0 +1,6 @@
+openai>=1.0.0
+langchain
+sentence-transformers
+numpy
+fastapi
+uvicorn
